@@ -1,0 +1,13 @@
+:host {
+    display: grid;
+    grid: 1fr / 1fr 1fr;
+    height: 400px;
+}
+
+.container-right {
+    border: 1px solid red;
+}
+
+.container-left {
+    border: 1px solid greenyellow;
+}
